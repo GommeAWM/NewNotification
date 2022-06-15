@@ -22,7 +22,7 @@ NewNotification | Minecraft Bedrock Edition | Nukkit API 1.0.13
 ---
 
 **Usage:**<br />
-:unlock: join server / type /snf into the chat;<br />
+:unlock: join server || type /snf into the chat;<br />
 
 ---
 
