@@ -1,5 +1,11 @@
 # NewNotification
-NewNotification | Minecraft Bedrock Edition | Nukkit API 1.0.13
+NewNotification | Minecraft Bedrock Edition | Nukkit API 1.0.14
+
+---
+
+**Requirement:**<br />
+
+> * Download the `latest version of Nukkit`
 
 ---
 **Description:**<br />
