@@ -38,7 +38,7 @@ NewNotification | Minecraft Bedrock Edition | Nukkit API 1.0.14
 
 ---
 
-> * Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/effectsgui.800/)
+> * Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/newnotification.808/)
 
 ---
 
